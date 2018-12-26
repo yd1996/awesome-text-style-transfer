@@ -59,7 +59,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 * [Adversarial Text Generation via Feature-Mover's Distance.](https://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance)  Liqun Chen, Shuyang Dai, Chenyang Tao, Dinghan Shen, Zhe Gan, Haichao Zhang, Yizhe Zhang, Ruiyi Zhang, Guoyin Wang, Lawrence Carin.  In ***NIPS 2018***.
 
-* [Disentangled Representation Learning for Non-Parallel Text Style Transfer.](https://arxiv.org/abs/1808.04339)  Vineet John, Lili Mou, Hareesh Bahuleyan and Olga Vechtomova.  In ***AAAI 2019***.   [[code]](https://github.com/vineetjohn/linguistic-style-transfer) 
+* [Disentangled Representation Learning for Non-Parallel Text Style Transfer.](https://arxiv.org/abs/1808.04339)  Vineet John, Lili Mou, Hareesh Bahuleyan and Olga Vechtomova.  In ***ArXiv***.   [[code]](https://github.com/vineetjohn/linguistic-style-transfer) 
 
 * [Unsupervised Controllable Text Formalization.](https://arxiv.org/abs/1809.04556)  Parag Jain, Abhijit Mishra, Amar Prakash Azad and Karthik Sankaranarayanan.  In ***AAAI 2019***.
 
