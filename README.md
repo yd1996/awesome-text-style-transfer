@@ -38,9 +38,15 @@ Please feel free to pull requests or open an issue to add papers.
 * **[NIPS-18]** [Adversarial Text Generation via Feature-Mover's Distance.](https://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance)  Liqun Chen, Shuyang Dai, Chenyang Tao, Dinghan Shen, Zhe Gan, Haichao Zhang, Yizhe Zhang, Ruiyi Zhang, Guoyin Wang, Lawrence Carin.
 * **[AAAI-19]** [Unsupervised Controllable Text Formalization.](https://arxiv.org/abs/1809.04556)  Parag Jain, Abhijit Mishra, Amar Prakash Azad and Karthik Sankaranarayanan.
 * **[ICLR-19]** [Multiple-Attribute Text Rewriting.](https://arxiv.org/abs/1811.00552)  Sandeep Subramanian, Guillaume Lample, Eric Michael Smith, Ludovic Denoyer, Marc’Aurelio Ranzato and Y-Lan Boureau.
+* **[arXiv-19]** [Unsupervised Text Style Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf)  Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews and Enrico Santus. [[code]](https://github.com/zhijing-jin/IMT)
 
 
 ### Related Applications
+
+#### Style Transfer in Headline Generation
+
+* **[NAACL-18]** [SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation.](http://www.aclweb.org/anthology/N18-1138) Ye Zhang, Nan Ding and Radu Soricut.
+* **[ICDM-18]** [Deep Headline Generation for Clickbait Detection.](https://ieeexplore.ieee.org/abstract/document/8594871) Kai Shu, Suhang Wang, Thai Le, Dongwon Lee and Huan Liu.
 
 #### Stylized Image Captioning
 
