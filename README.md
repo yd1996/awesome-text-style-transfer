@@ -39,7 +39,8 @@ Please feel free to pull requests or open an issue to add papers.
 * **[AAAI-19]** [Unsupervised Controllable Text Formalization.](https://arxiv.org/abs/1809.04556)  Parag Jain, Abhijit Mishra, Amar Prakash Azad and Karthik Sankaranarayanan.
 * **[ICLR-19]** [Multiple-Attribute Text Rewriting.](https://arxiv.org/abs/1811.00552)  Sandeep Subramanian, Guillaume Lample, Eric Michael Smith, Ludovic Denoyer, Marc’Aurelio Ranzato and Y-Lan Boureau.
 * **[arXiv-19]** [Unsupervised Text Style Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf)  Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews and Enrico Santus. [[code]](https://github.com/zhijing-jin/IMT)
-
+* **[NAACL-19]** Evaluating Style Transfer for Text. Remi Mir, Bjarke Felbo, Nick Obradovich and Iyad Rahwan.
+* **[NAACL-19]** [Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus.](https://arxiv.org/pdf/1903.10671.pdf) Hongyu Gong, Suma Bhat, Lingfei Wu, JinJun Xiong and Wen-mei Hwu.
 
 ### Related Applications
 
