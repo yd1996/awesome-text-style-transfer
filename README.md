@@ -41,7 +41,7 @@ Please feel free to pull requests or open an issue to add papers.
 * **[arXiv-19]** [Unsupervised Text Style Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf)  Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews and Enrico Santus. [[code]](https://github.com/zhijing-jin/IMT)
 * **[NAACL-19]** [Evaluating Style Transfer for Text.](https://www.aclweb.org/anthology/N19-1049) Remi Mir, Bjarke Felbo, Nick Obradovich and Iyad Rahwan. [[code]](https://github.com/passeul/style-transfer-model-evaluation)
 * **[NAACL-19]** [Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus.](https://arxiv.org/pdf/1903.10671.pdf) Hongyu Gong, Suma Bhat, Lingfei Wu, JinJun Xiong and Wen-mei Hwu.
-* **[NAACL-19]** [Adversarial Decomposition of Text Representation.](https://arxiv.org/pdf/1808.09042.pdf) Alexey Romanov, Anna Rumshisky, Anna Rogers and David Donahue.
+* **[NAACL-19]** [Adversarial Decomposition of Text Representation.](https://www.aclweb.org/anthology/N19-1088) Alexey Romanov, Anna Rumshisky, Anna Rogers and David Donahue. [[code]](https://github.com/text-machine-lab/adversarial_decomposition)
 
 ### Related Applications
 
