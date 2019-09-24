@@ -37,7 +37,6 @@ Please feel free to pull requests or open an issue to add papers.
 * **[NIPS-18]** [Adversarial Text Generation via Feature-Mover's Distance.](https://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance)  Liqun Chen, Shuyang Dai, Chenyang Tao, Dinghan Shen, Zhe Gan, Haichao Zhang, Yizhe Zhang, Ruiyi Zhang, Guoyin Wang, Lawrence Carin.
 * **[AAAI-19]** [Unsupervised Controllable Text Formalization.](https://arxiv.org/abs/1809.04556)  Parag Jain, Abhijit Mishra, Amar Prakash Azad and Karthik Sankaranarayanan.
 * **[ICLR-19]** [Multiple-Attribute Text Rewriting.](https://arxiv.org/abs/1811.00552)  Sandeep Subramanian, Guillaume Lample, Eric Michael Smith, Ludovic Denoyer, Marc’Aurelio Ranzato and Y-Lan Boureau.
-* **[arXiv-19]** [Unsupervised Text Style Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf)  Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews and Enrico Santus. [[code]](https://github.com/zhijing-jin/IMT)
 * **[NAACL-19]** [Evaluating Style Transfer for Text.](https://www.aclweb.org/anthology/N19-1049) Remi Mir, Bjarke Felbo, Nick Obradovich and Iyad Rahwan. [[code]](https://github.com/passeul/style-transfer-model-evaluation)
 * **[NAACL-19]** [Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus.](https://www.aclweb.org/anthology/N19-1320) Hongyu Gong, Suma Bhat, Lingfei Wu, JinJun Xiong and Wen-mei Hwu.
 * **[NAACL-19]** [Adversarial Decomposition of Text Representation.](https://www.aclweb.org/anthology/N19-1088) Alexey Romanov, Anna Rumshisky, Anna Rogers and David Donahue. [[code]](https://github.com/text-machine-lab/adversarial_decomposition)
@@ -50,6 +49,17 @@ Please feel free to pull requests or open an issue to add papers.
 * **[ACL-19]** Towards Unsupervised Fine-grained Sentiment Transfer. Fuli Luo, Peng Li, Pengcheng Yang, Jie Zhou, Yutong Tan, Baobao Chang, Zhifang Sui and Xu Sun.
 * **[ACL-19]** [Disentangled Representation Learning for Non-Parallel Text Style Transfer.](https://arxiv.org/abs/1808.04339)  Vineet John, Lili Mou, Hareesh Bahuleyan and Olga Vechtomova.  [[code]](https://github.com/vineetjohn/linguistic-style-transfer) 
 * **[ACL-19]** Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG. Shereen Oraby, Vrindavan Harrison, Abteen Ebrahimi and Marilyn Walker.
+* **[EMNLP-19]** [Unsupervised Text Style Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf)  Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews and Enrico Santus. [[code]](https://github.com/zhijing-jin/IMT)
+* **[EMNLP-19]** “Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer. Akhilesh Sudhakar, Bhargav Upadhyay and Arjun Maheswaran.
+* **[EMNLP-19]** Domain Adaptive Text Style Transfer. Dianqi Li, Yizhe Zhang, Zhe Gan, Yu Cheng, Chris Brockett, Bill Dolan and Ming-Ting Sun.
+* **[EMNLP-19]** Semi-supervised Text Style Transfer: Cross Projection in Latent Space. Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi and Rui Yan.
+* **[EMNLP-19]** Style Transfer for Texts: to Err is Human, but Error Margins Matter. Alexey Tikhonov, Viacheslav Shibaev, Aleksander Nagaev, Aigul Nugmanova and Ivan P. Yamshchikov.
+* **[EMNLP-19]** An Empirical Study of Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer. Yunli Wang, Yu Wu, Lili Mou, Zhoujun Li and Wenhan Chao.
+* **[EMNLP-19]** Multiple Text Style Transfer by using Word-level Conditional Generative Adversarial Network with Two-Phase Training. Chih-Te Lai, Yi-Te Hong, Hong-You Chen, Chi-Jen Lu and Shou-De Lin.
+* **[EMNLP-19]** Specificity-Driven Cascading Approach for Unsupervised Sentiment Modification. Pengcheng Yang, Junyang Lin, Jingjing Xu, Jun Xie, Qi Su and Xu SUN.
+* **[EMNLP-19]** Exploiting Non-Parallel Corpora in Sentiment Modification. Canasai Kruengkrai.
+* **[NeurIPS-19]** Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation. Ke Wang, Hang Hua and Xiaojun Wan.
+* **[arXiv-19]** Adapting Language Models for Non-Parallel Author Stylized Rewriting. Bakhtiyar Syed, Gaurav Verma, Balaji Vasan Srinivasan, Anandhavelu N and Vasudeva Varma.
 
 ### Related Applications
 
