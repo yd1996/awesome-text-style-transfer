@@ -41,25 +41,26 @@ Please feel free to pull requests or open an issue to add papers.
 * **[NAACL-19]** [Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus.](https://www.aclweb.org/anthology/N19-1320) Hongyu Gong, Suma Bhat, Lingfei Wu, JinJun Xiong and Wen-mei Hwu.
 * **[NAACL-19]** [Adversarial Decomposition of Text Representation.](https://www.aclweb.org/anthology/N19-1088) Alexey Romanov, Anna Rumshisky, Anna Rogers and David Donahue. [[code]](https://github.com/text-machine-lab/adversarial_decomposition)
 * **[NAACL-19]** [Neural Text Style Transfer via Denoising and Reranking.](https://www.aclweb.org/anthology/W19-2309) Joseph Lee, Ziang Xie, Cindy Wang, Max Drach, Dan Jurafsky and Andrew Ng.
-* **[IJCAI-19]** Utilizing Non-Parallel Text for Style Transfer by Making Partial Comparisons. Di Yin, Shujian Huang, Xin-Yu Dai and Jiajun Chen.
-* **[IJCAI-19]** A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer. Fuli Luo, Peng Li, Jie Zhou, Pengcheng Yang, Baobao Chang, Xu Sun, Zhifang Sui.
-* **[IJCAI-19]** Mask and Infill: Applying Masked Language Model for Sentiment Transfer. Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han and Songlin Hu.
-* **[ACL-19]** Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation. Ning Dai, Jianze Liang, Xipeng Qiu and Xuanjing Huang.
-* **[ACL-19]** A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer. Chen Wu, Xuancheng Ren, Fuli Luo and Xu Sun.
-* **[ACL-19]** Towards Unsupervised Fine-grained Sentiment Transfer. Fuli Luo, Peng Li, Pengcheng Yang, Jie Zhou, Yutong Tan, Baobao Chang, Zhifang Sui and Xu Sun.
+* **[IJCAI-19]** [Utilizing Non-Parallel Text for Style Transfer by Making Partial Comparisons.](https://www.ijcai.org/proceedings/2019/0747.pdf) Di Yin, Shujian Huang, Xin-Yu Dai and Jiajun Chen. [[code]](https://github.com/yd1996/PartialComparison)
+* **[IJCAI-19]** [A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer.](https://www.ijcai.org/proceedings/2019/0711.pdf) Fuli Luo, Peng Li, Jie Zhou, Pengcheng Yang, Baobao Chang, Xu Sun, Zhifang Sui. [[code]](https://github.com/luofuli/DualRL)
+* **[IJCAI-19]** [Mask and Infill: Applying Masked Language Model for Sentiment Transfer.](https://www.ijcai.org/proceedings/2019/0732.pdf) Xing Wu, Tao Zhang, Liangjun Zang, Jizhong Han and Songlin Hu.
+* **[ACL-19]** [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation.](https://www.aclweb.org/anthology/P19-1601) Ning Dai, Jianze Liang, Xipeng Qiu and Xuanjing Huang. [[code]](https://github.com/fastnlp/fastNLP)
+* **[ACL-19]** [A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer.](https://www.aclweb.org/anthology/P19-1482) Chen Wu, Xuancheng Ren, Fuli Luo and Xu Sun. [[code]](https://github.com/ChenWu98/Point-Then-Operate)
+* **[ACL-19]** [Towards Unsupervised Fine-grained Sentiment Transfer.](https://www.aclweb.org/anthology/P19-1194) Fuli Luo, Peng Li, Pengcheng Yang, Jie Zhou, Yutong Tan, Baobao Chang, Zhifang Sui and Xu Sun. [[code]](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
 * **[ACL-19]** [Disentangled Representation Learning for Non-Parallel Text Style Transfer.](https://arxiv.org/abs/1808.04339)  Vineet John, Lili Mou, Hareesh Bahuleyan and Olga Vechtomova.  [[code]](https://github.com/vineetjohn/linguistic-style-transfer) 
-* **[ACL-19]** Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG. Shereen Oraby, Vrindavan Harrison, Abteen Ebrahimi and Marilyn Walker.
-* **[EMNLP-19]** [Unsupervised Text Style Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf)  Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews and Enrico Santus. [[code]](https://github.com/zhijing-jin/IMT)
-* **[EMNLP-19]** “Transforming” Delete, Retrieve, Generate Approach for Controlled Text Style Transfer. Akhilesh Sudhakar, Bhargav Upadhyay and Arjun Maheswaran.
-* **[EMNLP-19]** Domain Adaptive Text Style Transfer. Dianqi Li, Yizhe Zhang, Zhe Gan, Yu Cheng, Chris Brockett, Bill Dolan and Ming-Ting Sun.
-* **[EMNLP-19]** Semi-supervised Text Style Transfer: Cross Projection in Latent Space. Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi and Rui Yan.
-* **[EMNLP-19]** Style Transfer for Texts: to Err is Human, but Error Margins Matter. Alexey Tikhonov, Viacheslav Shibaev, Aleksander Nagaev, Aigul Nugmanova and Ivan P. Yamshchikov.
-* **[EMNLP-19]** An Empirical Study of Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer. Yunli Wang, Yu Wu, Lili Mou, Zhoujun Li and Wenhan Chao.
-* **[EMNLP-19]** Multiple Text Style Transfer by using Word-level Conditional Generative Adversarial Network with Two-Phase Training. Chih-Te Lai, Yi-Te Hong, Hong-You Chen, Chi-Jen Lu and Shou-De Lin.
-* **[EMNLP-19]** Specificity-Driven Cascading Approach for Unsupervised Sentiment Modification. Pengcheng Yang, Junyang Lin, Jingjing Xu, Jun Xie, Qi Su and Xu SUN.
-* **[EMNLP-19]** Exploiting Non-Parallel Corpora in Sentiment Modification. Canasai Kruengkrai.
-* **[NeurIPS-19]** Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation. Ke Wang, Hang Hua and Xiaojun Wan.
-* **[arXiv-19]** Adapting Language Models for Non-Parallel Author Stylized Rewriting. Bakhtiyar Syed, Gaurav Verma, Balaji Vasan Srinivasan, Anandhavelu N and Vasudeva Varma.
+* **[ACL-19]** [Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG.](https://www.aclweb.org/anthology/P19-1596) Shereen Oraby, Vrindavan Harrison, Abteen Ebrahimi and Marilyn Walker. [[data]](https://nlds.soe.ucsc.edu/yelpnlg)
+* **[EMNLP-19]** [Domain Adaptive Text Style Transfer.](https://arxiv.org/pdf/1908.09395.pdf) Dianqi Li, Yizhe Zhang, Zhe Gan, Yu Cheng, Chris Brockett, Ming-Ting Sun, Bill Dolan. [[code]](https://github.com/cookielee77/DAST)
+* **[EMNLP-19]** [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer.](https://arxiv.org/pdf/1908.09368.pdf) Akhilesh Sudhakar, Bhargav Upadhyay, Arjun Maheswaran. [[code]](https://github.com/agaralabs/transformer-drg-style-transfer)
+* **[EMNLP-19]** [Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites.](https://arxiv.org/pdf/1908.06809.pdf) Alexey Tikhonov, Viacheslav Shibaev, Aleksander Nagaev, Aigul Nugmanova and Ivan P. Yamshchikov. [[code]](https://github.com/VAShibaev/text_style_transfer)
+* **[EMNLP-19]** [Unsupervised Text Attribute Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf) Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews, Enrico Santus. [[data]](https://github.com/zhijing-jin/IMaT)
+* **[EMNLP-19]** [Semi-supervised Text Style Transfer: Cross Projection in Latent Space.](https://arxiv.org/abs/1909.11493) Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi, Rui Yan. [[data]](https://drive.google.com/file/d/15TxvHgd_SEC-Wy47uI_CgDdiPf_yUw60/view?usp=sharing)
+* **[EMNLP-19]** [Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer.](https://www.aclweb.org/anthology/D19-1365.pdf) Yunli Wang, Yu Wu, Lili Mou, Zhoujun Li, Wenhan Chao. [[code]](https://github.com/jimth001/formality_emnlp19)
+* **[NeurIPS-19]** [Controllable Unsupervised Text Attribute Transfervia Editing Entangled Latent Representation.](https://arxiv.org/pdf/1905.12926.pdf) Ke Wang, Hang Hua and Xiaojun Wan. [[code]](https://github.com/nrgeup/controllable-text-attribute-transfer)
+* **[EMNLP-19-workshop]** [Decomposing Textual Information For Style Transfer.](https://arxiv.org/abs/1909.12928) Ivan P. Yamshchikov, Viacheslav Shibaev, Aleksander Nagaev, Jürgen Jost, Alexey Tikhonov.
+* **[EMNLP-19-workshop]** [Unsupervised Evaluation Metrics and Learning Criteria for Non-Parallel Textual Transfer, EMNLP Workshop on Neural Generation and Translation.](https://arxiv.org/abs/1810.11878) Richard Yuanzhe Pang, Kevin Gimpel.
+* **[EMNLP-19-workshop]** [The Daunting Task of Real-World Textual Style Transfer Auto-Evaluation.](https://arxiv.org/abs/1910.03747) Richard Yuanzhe Pang.
+* **[INLG-19]** [Rethinking Text Attribute Transfer: A Lexical Analysis.](https://arxiv.org/abs/1909.12335) Yao Fu, Hao Zhou, Jiaze Chen, Lei Li.
+* **[arXiv-19]** [Revision in Continuous Space: Fine-Grained Control of Text Style Transfer.](https://arxiv.org/abs/1905.12304) Dayiheng Liu, Jie Fu, Yidan Zhang, Chris Pal, Jiancheng Lv. [[code]](https://github.com/FranxYao/pivot_analysis)
 
 ### Related Applications
 
