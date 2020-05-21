@@ -52,7 +52,7 @@ Please feel free to pull requests or open an issue to add papers.
 * **[EMNLP-19]** [Domain Adaptive Text Style Transfer.](https://arxiv.org/pdf/1908.09395.pdf) Dianqi Li, Yizhe Zhang, Zhe Gan, Yu Cheng, Chris Brockett, Ming-Ting Sun, Bill Dolan. [[code]](https://github.com/cookielee77/DAST)
 * **[EMNLP-19]** [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer.](https://arxiv.org/pdf/1908.09368.pdf) Akhilesh Sudhakar, Bhargav Upadhyay, Arjun Maheswaran. [[code]](https://github.com/agaralabs/transformer-drg-style-transfer)
 * **[EMNLP-19]** [Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites.](https://arxiv.org/pdf/1908.06809.pdf) Alexey Tikhonov, Viacheslav Shibaev, Aleksander Nagaev, Aigul Nugmanova and Ivan P. Yamshchikov. [[code]](https://github.com/VAShibaev/text_style_transfer)
-* **[EMNLP-19]** [Unsupervised Text Attribute Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf) Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews, Enrico Santus. [[data]](https://github.com/zhijing-jin/IMaT)
+* **[EMNLP-19]** [IMaT: Unsupervised Text Attribute Transfer via Iterative Matching and Translation.](https://arxiv.org/pdf/1901.11333.pdf) Zhijing Jin, Di Jin, Jonas Mueller, Nicholas Matthews, Enrico Santus. [[data]](https://github.com/zhijing-jin/IMaT)
 * **[EMNLP-19]** [Semi-supervised Text Style Transfer: Cross Projection in Latent Space.](https://arxiv.org/abs/1909.11493) Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi, Rui Yan. [[data]](https://drive.google.com/file/d/15TxvHgd_SEC-Wy47uI_CgDdiPf_yUw60/view?usp=sharing)
 * **[EMNLP-19]** [Harnessing Pre-Trained Neural Networks with Rules for Formality Style Transfer.](https://www.aclweb.org/anthology/D19-1365.pdf) Yunli Wang, Yu Wu, Lili Mou, Zhoujun Li, Wenhan Chao. [[code]](https://github.com/jimth001/formality_emnlp19)
 * **[NeurIPS-19]** [Controllable Unsupervised Text Attribute Transfervia Editing Entangled Latent Representation.](https://arxiv.org/pdf/1905.12926.pdf) Ke Wang, Hang Hua and Xiaojun Wan. [[code]](https://github.com/nrgeup/controllable-text-attribute-transfer)
@@ -68,7 +68,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 * **[NAACL-18]** [SHAPED: Shared-Private Encoder-Decoder for Text Style Adaptation.](http://www.aclweb.org/anthology/N18-1138) Ye Zhang, Nan Ding and Radu Soricut.
 * **[ICDM-18]** [Deep Headline Generation for Clickbait Detection.](https://ieeexplore.ieee.org/abstract/document/8594871) Kai Shu, Suhang Wang, Thai Le, Dongwon Lee and Huan Liu.
-
+* **[ACL-20]** [Hooks in the Headline: Learning to Generate Headlines with Controlled Styles.](https://arxiv.org/pdf/2004.01980.pdf) Di Jin, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii, Peter Szolovits.
 #### Stylized Image Captioning
 
 * **[AAAI-16]** [Senticap: Generating image descriptions with sentiments.](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12501/12132) Alexander Mathews, Lexing Xie and Xuming He.
